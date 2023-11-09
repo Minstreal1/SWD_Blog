@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #ff9ad9;
+  }
+  
+  .input-group {
+    display: flex;
+    align-items: center;
+    margin: auto;
+  }
+  
+  label {
+    font-weight: bold;
+    color: #ff9ad9; /* Màu hồng nhạt */
+    width: 120px; /* Điều chỉnh chiều rộng của label, bạn có thể điều chỉnh theo ý muốn */
+    text-align: right; /* Canh lề phải cho label để nó đúng cạnh trường input */
+    margin-bottom: 20px; /* Tạo khoảng cách giữa label và trường input */
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    margin: 5px;
+    padding: 10px;
+    border: 3px solid #ff9ad9; /* Màu hồng nhạt */
+    border-radius: 10px;
+  }
+  
+  button {
+    border: 1px solid #49052f;
+    background-color: #ff9ad9;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  button:hover {
+    background-color: #ff7cc2;
+  }
+  a {
+    color: #ff9ad9; /* Màu hồng nhạt cho các liên kết */
+    text-decoration: none; /* Loại bỏ gạch chân cho liên kết */
+    margin-right: 5px; /* Tạo khoảng cách giữa các liên kết */
+  }
+  
+  a:hover {
+    color: #ff7cc2; /* Màu hồng nhạt tối khi rê chuột qua liên kết */
+  }
