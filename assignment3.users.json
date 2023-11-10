@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "653f11f793ec83de411a5f79"
+  },
+  "username": "nhandinhdo291@gmail.com",
+  "password": "$2b$10$v1diZE0PzvbMzKQ4qb3oJ.NAgjehqacjI0R9QHems7a5NqJP03YhW",
+  "isAdmin": false,
+  "YOB": 2002,
+  "name": "Zenny",
+  "updatedAt": {
+    "$date": "2023-10-31T03:08:14.339Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "653f123593ec83de411a5f7b"
+  },
+  "username": "admin@gmail.com",
+  "password": "$2b$10$PHOAKXFNdu4E1fYXXmIOC.HzGzEfpncvWzbYFOEYTOcYDz6P37pxm",
+  "isAdmin": true,
+  "YOB": 2002,
+  "name": "admin",
+  "updatedAt": {
+    "$date": "2023-10-31T06:12:09.943Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "653f71b323f53debb73631da"
+  },
+  "username": "nhandinhdo2912@gmail.com",
+  "password": "$2b$10$zOhMnAv0cov7IpHGqBgAzOwhGxhCRoafHSud4QW/tjRMy8o1hiIKu",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-10-30T09:04:51.547Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-30T09:04:51.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654076821186fb501373326d"
+  },
+  "username": "_vanilla@choco.la",
+  "password": "$2b$10$JghvNFVlCT3ME9SULA9Zu.fJo3DXkWNJKXkDwSOtFsbxIrcxniAz2",
+  "name": "Jenny",
+  "YOB": 2004,
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-10-31T03:37:38.899Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-31T03:37:38.899Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "653f211193ec83de411a5f90"
+  },
+  "categoryName": "Ascocenda"
+},
+{
+  "_id": {
+    "$oid": "653f212193ec83de411a5f92"
+  },
+  "categoryName": "Brassavola"
+},
+{
+  "_id": {
+    "$oid": "5a934e000102030405000002"
+  },
+  "categoryName": "Miltonia"
+}]

@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "653f1d2a93ec83de411a5f80"
+  },
+  "name": "Phalaenopsis",
+  "image": "https://www.petalrepublic.com/wp-content/uploads/2021/05/History-Origins-of-Phalaenopsis-Orchids.jpeg",
+  "isNatural": true,
+  "origin": "Asia",
+  "comments": [
+    {
+      "rating": 4,
+      "comment": "Beautiful orchid!",
+      "author": "Johnny"
+    },
+    {
+      "rating": 5,
+      "comment": "I love this orchid! Highly recommended.",
+      "author": "Alex"
+    }
+  ],
+  "category": {
+    "$oid": "5a934e000102030405000002"
+  }
+},
+{
+  "_id": {
+    "$oid": "653f1da493ec83de411a5f82"
+  },
+  "name": "Cattleya",
+  "image": "https://www.thespruce.com/thmb/58Uw9fTFw9WTkJTrDrU1lNJ4lhU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/cattleya-orchids-overview-1902861-04-f8f0a3d3ba76498b9f76a1d05ba65892.jpg",
+  "isNatural": false,
+  "origin": "South America",
+  "comments": [
+    {
+      "rating": 5,
+      "comment": "Stunning colors!",
+      "author": "Jenny"
+    },
+    {
+      "rating": 4,
+      "comment": "One of my favorite orchids.",
+      "author": "Chlori"
+    }
+  ],
+  "category": {
+    "$oid": "5a934e000102030405000002"
+  }
+},
+{
+  "_id": {
+    "$oid": "653f1dd293ec83de411a5f84"
+  },
+  "name": "Dendrobium",
+  "image": "https://res.cloudinary.com/serenata-commerce-limited/image/upload/f_auto,q_auto/v1/Raw/110476_standing",
+  "isNatural": true,
+  "origin": "Australia",
+  "comments": [
+    {
+      "rating": 3,
+      "comment": "Decent orchid.",
+      "author": "Harrison"
+    },
+    {
+      "rating": 4,
+      "comment": "Good choice for beginners.",
+      "author": "Will Smith"
+    }
+  ],
+  "category": {
+    "$oid": "5a934e000102030405000002"
+  }
+},
+{
+  "_id": {
+    "$oid": "653f1df393ec83de411a5f86"
+  },
+  "name": "Vanda",
+  "image": "https://s3g2u3k4.rocketcdn.me/wp-content/uploads/sites/4/2023/01/vanda-orchid-care.jpg",
+  "isNatural": true,
+  "origin": "Southeast Asia",
+  "comments": [
+    {
+      "rating": 5,
+      "comment": "Exquisite orchid!",
+      "author": "Kira"
+    }
+  ],
+  "category": {
+    "$oid": "5a934e000102030405000002"
+  }
+}]
